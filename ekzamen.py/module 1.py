@@ -1,0 +1,5 @@
+a = quit
+print(a)
+
+
+
